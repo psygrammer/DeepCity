@@ -4,3 +4,6 @@
 [submodule "geopy/urban/CP255"]
 	path = geopy/urban/CP255
 	url = https://github.com/waddell/CP255.git
+[submodule "mlpy/Python-Machine-Learning-Second-Edition"]
+	path = mlpy/Python-Machine-Learning-Second-Edition
+	url = https://github.com/PacktPublishing/Python-Machine-Learning-Second-Edition.git
