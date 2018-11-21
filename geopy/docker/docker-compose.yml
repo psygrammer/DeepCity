@@ -1,0 +1,8 @@
+geopy:
+  image: psygrammer/deepcon:0.4
+  ports:
+    - "8888:8888"
+    - "6006:6006"
+  volumes:
+    - ../:/home/jovyan/work/geopy
+  tty: true

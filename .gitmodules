@@ -1,0 +1,3 @@
+[submodule "geopy/geo/GeospatialPython-Learn"]
+	path = geopy/geo/GeospatialPython-Learn
+	url = https://github.com/GeospatialPython/Learn.git
