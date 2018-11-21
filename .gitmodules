@@ -1,3 +1,6 @@
 [submodule "geopy/geo/GeospatialPython-Learn"]
 	path = geopy/geo/GeospatialPython-Learn
 	url = https://github.com/GeospatialPython/Learn.git
+[submodule "geopy/urban/CP255"]
+	path = geopy/urban/CP255
+	url = https://github.com/waddell/CP255.git
