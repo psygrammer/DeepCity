@@ -1,5 +1,10 @@
 # 머신러닝 기초
 * 설치
+```shell
+현재 위치 기준으로 docker 디렉토리로 이동
+$ cd docker
+$ docker-compose up
+```
 
 
 # 교재 & 커리큘럼
