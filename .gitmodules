@@ -7,3 +7,9 @@
 [submodule "mlpy/Python-Machine-Learning-Second-Edition"]
 	path = mlpy/Python-Machine-Learning-Second-Edition
 	url = https://github.com/PacktPublishing/Python-Machine-Learning-Second-Edition.git
+[submodule "real_estate/urbansim/urbansim"]
+	path = real_estate/urbansim/urbansim
+	url = https://github.com/UDST/urbansim
+[submodule "real_estate/urbansim/sanfran_urbansim"]
+	path = real_estate/urbansim/sanfran_urbansim
+	url = https://github.com/UDST/sanfran_urbansim
