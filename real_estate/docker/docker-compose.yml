@@ -1,5 +1,5 @@
 re:
-  image: psygrammer/deepcon:0.7
+  image: psygrammer/deepcon:0.8
   ports:
     - "8888:8888"
     - "6006:6006"
