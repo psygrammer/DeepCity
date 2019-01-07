@@ -13,3 +13,6 @@
 [submodule "real_estate/urbansim/sanfran_urbansim"]
 	path = real_estate/urbansim/sanfran_urbansim
 	url = https://github.com/UDST/sanfran_urbansim
+[submodule "real_estate/activitysim/activitysim"]
+	path = real_estate/activitysim/activitysim
+	url = https://github.com/ActivitySim/activitysim
