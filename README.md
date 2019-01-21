@@ -11,7 +11,7 @@
 # 스터디 진행 그룹
 * 싸이그래머 : 정통..심리학 그룹
   - https://www.facebook.com/groups/psygrammer/
-* 싸이지먼트 : 계산 사회과확 그룹
+* 싸이지먼트 : 계산 사회과학 그룹
   - https://www.facebook.com/groups/psygement/
   
 # 설치 공통
