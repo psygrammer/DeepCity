@@ -16,3 +16,6 @@
 [submodule "real_estate/activitysim/activitysim"]
 	path = real_estate/activitysim/activitysim
 	url = https://github.com/ActivitySim/activitysim
+[submodule "geopy/geo/geopandas-tutorial"]
+	path = geopy/geo/geopandas-tutorial
+	url = https://github.com/jorisvandenbossche/geopandas-tutorial.git
