@@ -19,3 +19,6 @@
 [submodule "geopy/geo/geopandas-tutorial"]
 	path = geopy/geo/geopandas-tutorial
 	url = https://github.com/jorisvandenbossche/geopandas-tutorial.git
+[submodule "tspy/Practical-Time-Series-Analysis"]
+	path = tspy/Practical-Time-Series-Analysis
+	url = https://github.com/PacktPublishing/Practical-Time-Series-Analysis.git
