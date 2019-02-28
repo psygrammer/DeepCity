@@ -22,3 +22,6 @@
 [submodule "tspy/Practical-Time-Series-Analysis"]
 	path = tspy/Practical-Time-Series-Analysis
 	url = https://github.com/PacktPublishing/Practical-Time-Series-Analysis.git
+[submodule "geopy/gis/CSC18"]
+	path = geopy/gis/CSC18
+	url = https://github.com/Automating-GIS-processes/CSC18.git
